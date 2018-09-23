@@ -16,6 +16,7 @@ X = np.array(iris_csv.iloc[:, 0:4])
 Y = np.array([[iris_csv.Species]])
 Y = Y.reshape(150)
 
+
 X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.246, random_state=0)
 
 
