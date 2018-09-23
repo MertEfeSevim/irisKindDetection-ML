@@ -4,4 +4,4 @@ Iris dataset is considered as the “Hello World” of machine learning. So as a
 Medium Publication
 Rest of the explanation can be found here;
 
-https://medium.com/@mertefesevim/hi-to-ml-iris-flowers-classification-cadb88207851####
+https://medium.com/@mertefesevim/hi-to-ml-iris-flowers-classification-cadb88207851
